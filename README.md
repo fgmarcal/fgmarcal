@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Felipe Garcia Marçal</h1>
-<h3 align="center">I'm a back-end developer with a flair for front-end development;</h3>
+<h3 align="center">I'm a full-stack developer;</h3>
 
 
 <h3 align="left">Connect with me:</h3>
